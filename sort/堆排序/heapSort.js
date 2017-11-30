@@ -1,5 +1,3 @@
-// http://www.cnblogs.com/jingmoxukong/p/4303826.htmlp
-
 /**
  * 堆排序
  * @param {要排序的数据} arrayParam
