@@ -1,0 +1,28 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "各种常用算法介绍和nodejs实现",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengyh13/algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengyh13/algorithm/issues"
+  },
+  "homepage": "https://github.com/fengyh13/algorithm#readme",
+  "dependencies": {
+    "ursa": "^0.9.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
